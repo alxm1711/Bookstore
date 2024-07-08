@@ -1,0 +1,1 @@
+Book store automated E2E test, written using Gherkin language, and executed/structured using behave runner/framework
